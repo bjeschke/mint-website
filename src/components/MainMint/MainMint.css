@@ -1,0 +1,36 @@
+.main-mint {
+    margin-top:200px;
+
+}
+
+button {
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    border-radius: 8px;
+    border: solid 2px #fff;
+    color: #fff;
+}
+
+input {
+    width: 100px;
+    margin:0 10px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-size: bold;
+}
+
+button.mint-now {
+    width: 200px;
+    padding: 0.1rem 2rem;
+    border-radius: 10px;
+    font-weight: bold;
+    background: transparent;
+    border: solid 2px #fff;
+    color:#fff;
+    font-size: 20px;
+    cursor: pointer;
+    height: 40px;
+    margin-top: 30px;
+}
